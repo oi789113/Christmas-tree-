@@ -1,0 +1,29 @@
+{
+  "title": "Snowy Forest Path 01",
+  "provider": "Poly Haven",
+  "asset_page": "https://polyhaven.com/a/snowy_forest_path_01",
+  "license": "CC0 1.0 Universal",
+  "license_url": "https://polyhaven.com/license",
+  "display_source": {
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/extra/Tonemapped%20JPG/snowy_forest_path_01.jpg",
+    "resolution": "8192×4096",
+    "source_md5": "22d924679883d5ed61c6eab772c0adc4",
+    "optimization": "Original8192×4096 tonemapped JPEG, copied without resizing or recompression. Same full resolution on desktop and mobile."
+  },
+  "lighting_source": {
+    "url": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/snowy_forest_path_01_2k.hdr",
+    "resolution": "2048×1024",
+    "purpose": "Specular lighting only, display uses sharper independent photograph."
+  },
+  "local_assets": {
+    "forest-display-8k.jpg": {
+      "size_bytes": 6313595,
+      "sha256": "960f6895813eacc10504b88ea4404b3a93cc3f7a31362c6388063ace2b34fc87"
+    },
+    "snowy_forest_path_01_2k.hdr": {
+      "size_bytes": 6680698,
+      "sha256": "24e8f8da3ac341ddb94a0d9b661fdd127eb72d70b68168183530c6432b3bcd2b"
+    }
+  },
+  "notes": "Original8K captured360° photograph, independent2KHDR lighting, no dynamic texture or particle quality reduction. All runtime requests remain sameorigin."
+}
